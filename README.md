@@ -671,3 +671,9 @@ bob@dylan:~$
 
 -   GitHub repository: `alx-files_manager`
 -   File: `utils/, controllers/FilesController.js, worker.js`
+
+
+## Authors
+
++ IBUKUN OBIDEYI
++ NwORAH GABRIEL CHIMZURUOKE
